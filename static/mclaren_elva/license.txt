@@ -1,0 +1,11 @@
+Model Information:
+* title:	McLaren Elva
+* source:	https://sketchfab.com/3d-models/mclaren-elva-000aed7c07034556bc66733d5abb8464
+* author:	ZIRODESIGN (https://sketchfab.com/zirodesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "McLaren Elva" (https://sketchfab.com/3d-models/mclaren-elva-000aed7c07034556bc66733d5abb8464) by ZIRODESIGN (https://sketchfab.com/zirodesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
